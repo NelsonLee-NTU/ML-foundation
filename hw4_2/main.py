@@ -85,4 +85,3 @@ for lmd_power in [-4, -2, 0, 2, 4]:
     print('acc= ', acc)
 
 # reference for multiple choices : http://www.kaspercpa.com/statisticalreview.htm#:~:text=The%20variance%20of%20the%20sum,the%20random%20variables%20are%20independent.&text=The%20covariance%20of%20a%20random,does%20not%20change%20their%20covariances.
-# http://onlinestatbook.com/2/sampling_distributions/samp_dist_mean.html#:~:text=Thus%2C%20the%20larger%20the%20sample,sampling%20distribution%20of%20the%20mean.&text=For%20N%20numbers%2C%20the%20variance,which%20equals%20%CF%832%2FN.
